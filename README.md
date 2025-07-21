@@ -1,5 +1,3 @@
-Here’s a **concise, paraphrased summary** of your Pharma-Sales-Analysis-and-Forecasting case study, incorporating recent research practices and keeping technical context intact:
-
 # Pharma-Sales-Analysis-and-Forecasting
 
 ## Project Summary
